@@ -5,7 +5,7 @@ title: "Qui sommes-nous ?"
 
 # Qu'est-ce que AMAPOLA ?
 
-AMAPOLA est une « Association pour le Maintien de l'Agriculture Paysanne » (ou AMAP).
+AMAPOLA est une « Association pour le Maintien de l'Agriculture Paysanne » (ou [AMAP](http://www.amap-idf.org/qu_est-ce_qu_une_amap_176.php)).
 Nous sommes une cinquantaine d'adhérent·e·s en quête d'une nouvelle façon de consommer.
 
 ![L'AMAP, plus qu'un panier]({{ "/assets/images/ressources-plus-qu-un-panier.png" | relative_url }})
