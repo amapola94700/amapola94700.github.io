@@ -1,6 +1,7 @@
 ---
 layout: home
-list_title: "L'actualité"
+title: "Bienvenue !"
+list_title: "L'actualité AMAPOLA"
 ---
 
 AMAPOLA est une AMAP située à Maisons-Alfort.
