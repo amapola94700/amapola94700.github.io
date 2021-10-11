@@ -10,7 +10,7 @@ Nous sommes une cinquantaine d'adhérent·e·s en quête d'une nouvelle façon d
 
 ![L'AMAP, plus qu'un panier]({{ "/assets/images/ressources-plus-qu-un-panier.png" | relative_url }})
 
-En effet, nous avons pour objectif de promouvoir une agriculture durable, socialement équitable et écologiquement saine à travers une information citoyenne et le soutien des agriculteurs de proximité s’engageant dans cette démarche.
+En effet, nous avons pour objectif de promouvoir une agriculture durable, socialement équitable et écologiquement saine à travers une information citoyenne et le soutien des agriculteurs de proximité s’engageant dans cette démarche (pour en savoir plus, [télécharger les statuts d'AMAPOLA]({{ "/assets/documents/amapola-statuts.pdf" | relative_url }})).
 
 # Où sommes-nous ?
 
