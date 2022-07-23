@@ -34,7 +34,7 @@ En attendant, n'hésitez pas à [nous écrire](mailto:amapola94700@gmail.com) ou
 # Je ne souhaite pas m'engager
 
 Il est possible de s'inscrire sur la liste des réservistes pour bénéficier des paniers revendus par les adhérentes et adhérents.
-Pour cela, il suffit de nous envoyer un email [en cliquant ici](mailto:amapola94700@gmail.com?subject="Inscription réservistes"&body="Bonjour, j'ai découvert AMAPOLA sur son site internet et je souhaite m'inscrire parmi les réservistes. Merci !").
+Pour cela, il suffit de nous envoyer un email [en cliquant ici](mailto:amapola94700@gmail.com?subject=Inscription réservistes&body=Bonjour, j'ai découvert AMAPOLA sur son site internet et je souhaite m'inscrire parmi les réservistes. Merci !).
 
 # Nous rencontrer
 

@@ -15,4 +15,4 @@ Alors, intéressé·e ?
 
 Cela ne vous angage à rien.
 
-Écrivez-nous un email à [amapola94700@gmail.com](mailto:amapola94700@gmail.com?subject="Inscription réservistes"&body="Bonjour, j'ai découvert AMAPOLA sur son site internet et je souhaite m'inscrire parmi les réservistes. Merci !") !
+Écrivez-nous un email à [amapola94700@gmail.com](mailto:amapola94700@gmail.com?subject=Inscription réservistes&body=Bonjour, j'ai découvert AMAPOLA sur son site internet et je souhaite m'inscrire parmi les réservistes. Merci !) !
