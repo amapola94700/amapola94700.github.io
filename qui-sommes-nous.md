@@ -10,7 +10,9 @@ AMAPOLA est une « Association pour le Maintien de l'Agriculture Paysanne » (ou
 Nous sommes une cinquantaine de « consommacteurs » conscients et désireux de s’impliquer dans l’économie solidaire.
 Autrement dit, nous sommes en quête d'une nouvelle façon de consommer !
 
+{:refdef: style="text-align: center;"}
 ![L'AMAP, plus qu'un panier]({{ "/assets/images/ressources-plus-qu-un-panier.png" | relative_url }})
+{: refdef}
 
 En effet, nous avons pour objectif de promouvoir une agriculture durable, socialement équitable et écologiquement saine à travers une information citoyenne et le soutien des agriculteurs de proximité s’engageant dans cette démarche (pour en savoir plus, [télécharger les statuts d'AMAPOLA]({{ "/assets/documents/amapola-statuts.pdf" | relative_url }})).
 
@@ -18,15 +20,19 @@ Concrétement, ce soutient s'exprime en organisant des distributions de paniers 
 
 # Où sommes-nous ?
 
-Nous sommes situés à Maisons-Alfort (94700) et nos distributions se font au Lieu Commun (cf. lien [Facebook](https://www.facebook.com/Le-Lieu-Commun-433926924066457) ou [Instagram](https://www.instagram.com/lelieucommun)):
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.434957623481751%2C48.80794984745852%2C2.437776625156403%2C48.80962442620502&amp;layer=mapnik&amp;marker=48.80878714382229%2C2.436368465423584" style="border: 1px solid black"></iframe>
+Nous sommes situés à Maisons-Alfort et nos distributions se font à [La Maison de l'Environnement](https://maisons-alfort.fr/votre-cadre-de-vie/sensibiliser-aux-gestes-eco-citoyens/la-maison-de-lenvironnement):
 
 ```
-3 rue Gabriel Péri
+Maison de l'Environnement
+2 avenue Foch
 94700 Maisons-Alfort
-Métro Stade
 ```
+
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=2.4191164970397954%2C48.799768691075265%2C2.441926002502442%2C48.81765915316544&amp;layer=mapnik&amp;marker=48.81559274933979%2C2.432071566581726" style="border: 1px solid black"></iframe>
+
+{:refdef: style="text-align: center;"}
+[Voir la carte en grand](https://www.openstreetmap.org/way/1205832384")
+{:refdef}
 
 # En savoir plus sur les AMAP
 
