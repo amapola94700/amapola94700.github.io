@@ -13,7 +13,7 @@ Le site web utilise [Jekyll](https://jekyllrb.com) et les [GitHub Pages](https:/
 Afin de construire le site web localement, j'utilise les commandes suivantes :
 
 ```bash
-bundler config set path .bundler
-bundle install
-bundle exec jekyll serve --drafts --future
+shell> bundle-2.7 config set --local path 'vendor/bundle'
+shell> bundle-2.7 install
+shell> bundle-2.7 exec jekyll serve --drafts --future
 ```
