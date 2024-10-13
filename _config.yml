@@ -59,3 +59,8 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - qui-sommes-nous.md
+  - producteurs.md
+  - documents.md
