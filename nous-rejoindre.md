@@ -7,13 +7,14 @@ title: "Nous rejoindre"
 
 Notre AMAP propose 2 tailles de paniers de légumes :
 
-- des petits à 13€/panier, 624€ à l'année (3 à 3.5 kg de légumes) --> approprié pour 2 personnes
-- des grands à 22€/panier, 1056€ à l'année (5 à 6kg de légumes)
+- des petits à 14€/panier, 686€ à l'année (3 à 3.5 kg de légumes) → approprié pour 2 personnes
+- des grands à 23€/panier, 1127€ à l'année (5 à 6kg de légumes)
 
 # ... mais pas que !
 
 - des œufs une semaine sur deux
 - des pommes de terre
+- du pain
 - des champignons
 - des pommes et des poires
 - des fruits rouges (fraises, cerises)
@@ -39,7 +40,7 @@ Pour cela, il suffit de nous envoyer un email [en cliquant ici](mailto:amapola94
 
 # Nous rencontrer
 
-Si le concept d'AMAP est un peu un abstrait pour vous ou que vous avez des questions, le mieux est sans doute de venir nous rencontrer un mercredi soir entre 19h00 et 20h00 à la Maison de l'Environnement de Maison-Alfort (uniquement à partir du 18 octobre 2023).
+Si le concept d'AMAP est un peu un abstrait pour vous ou que vous avez des questions, le mieux est sans doute de venir nous rencontrer un mercredi soir entre 19h00 et 20h00 à la Maison de l'Environnement de Maison-Alfort.
 N'hésitez pas à vous renseigner auprès des adhérent·e·s.
 
 Pour en savoir plus sur nous, suivre le lien vers la page [Qui sommes-nous ?]({{ "/qui-sommes-nous" | relative_url }}).
