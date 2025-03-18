@@ -30,13 +30,8 @@ Pour plus d'informations, suivre le lien vers la page [producteurs]({{ "producte
   - à donner un coup de main lors de temps en temps (environ 4 fois par an lors des distributions)
   - à revendre/donner son panier en cas d'impossibilité de le récupérer (généralement facile avec la liste de réservistes)
 
-Les renouvellements de contrat auront lieu courant octobre 2023.
-En attendant, n'hésitez pas à [nous écrire](mailto:amapola94700@gmail.com) ou à venir nous recontrer !
-
-# Je ne souhaite pas m'engager
-
-Il est possible de s'inscrire sur la liste des réservistes pour bénéficier des paniers revendus par les adhérentes et adhérents.
-Pour cela, il suffit de nous envoyer un email [en cliquant ici](mailto:amapola94700@gmail.com?subject=Inscription réservistes&body=Bonjour, j'ai découvert AMAPOLA sur son site internet et je souhaite m'inscrire parmi les réservistes. Merci !).
+Les renouvellements des adhésions et des contrats ont lieu courant octobre de chaque année.
+Il est cependant possible d'adhérer en cours d'année, n'hésitez pas à [nous écrire](mailto:amapola94700@gmail.com) ou à venir nous recontrer !
 
 # Nous rencontrer
 
@@ -44,3 +39,16 @@ Si le concept d'AMAP est un peu un abstrait pour vous ou que vous avez des quest
 N'hésitez pas à vous renseigner auprès des adhérent·e·s.
 
 Pour en savoir plus sur nous, suivre le lien vers la page [Qui sommes-nous ?]({{ "/qui-sommes-nous" | relative_url }}).
+
+# Je ne souhaite pas m'engager
+
+Si s'engager à l'année est trop lourd pour vous, il est possible de s'inscrire sur notre liste des réservistes pour ainsi bénéficier des paniers revendus par nos adhérentes et adhérents.
+
+Cette liste fonctionne avec un Google Groups et un compte Google est requis afin de s'y inscrire.
+Voici les étapes à suivre pour l'inscription :
+
+1. cliquer sur [ce lien](https://groups.google.com/g/reservistesamapola){:target="_blank"}
+2. cliquer sur "Demander à rejoindre le groupe"
+3. si ce bouton n'est pas affiché, s'assurer d'être connecté à un compte Google (bouton "Connexion" en haut à droite)
+
+En cas de soucis, ne pas hésiter à nous contacter [en cliquant ici](mailto:amapola94700@gmail.com?subject=Inscription réservistes&body=Bonjour, j'ai découvert AMAPOLA sur son site internet et je souhaite m'inscrire parmi les réservistes. Merci !).
