@@ -7,7 +7,7 @@ title: "Qui sommes-nous ?"
 
 AMAPOLA est une « Association pour le Maintien de l'Agriculture Paysanne » (ou [AMAP](http://www.amap-idf.org/qu_est-ce_qu_une_amap_176.php)).
 
-Nous sommes une cinquantaine de « consommacteurs » conscients et désireux de s’impliquer dans l’économie solidaire.
+Nous sommes une soixantaine de « consommacteurs » conscients et désireux de s’impliquer dans l’économie solidaire.
 Autrement dit, nous sommes en quête d'une nouvelle façon de consommer !
 
 {:refdef: style="text-align: center;"}
