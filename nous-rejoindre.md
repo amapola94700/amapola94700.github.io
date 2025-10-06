@@ -7,8 +7,8 @@ title: "Nous rejoindre"
 
 Notre AMAP propose 2 tailles de paniers de légumes :
 
-- des petits à 14€/panier, 686€ à l'année (3 à 3.5 kg de légumes) → approprié pour 2 personnes
-- des grands à 23€/panier, 1127€ à l'année (5 à 6kg de légumes)
+- des petits à 14€/panier, 700€ à l'année (3 à 3.5 kg de légumes) → approprié pour 2 personnes
+- des grands à 24€/panier, 1200€ à l'année (5 à 6kg de légumes) →  approprié pour une famille
 
 # ... mais pas que !
 
