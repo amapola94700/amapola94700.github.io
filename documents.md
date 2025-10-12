@@ -16,6 +16,6 @@ title: "Documents"
 
 - [Légumes](https://amapola.s3.fr-par.scw.cloud/2025-2026/AMAPOLA%20-%20Contrat%20Village%20Potager%202025-26.pdf) (nov 2024 → oct 2025)
 - [Pommes/poires](https://amapola.s3.fr-par.scw.cloud/2025-2026/AMAPOLA%20-%20Contrat%20pommes%202025-26.pdf) (sept 2025 → mars 2026)
-- Pain (paysan-boulanger) (nov 2025 → oct 2026, contrat à venir)
+- [Pain](https://amapola.s3.fr-par.scw.cloud/2025-2026/AMAPOLA%20-%20Contrat%20pain%202025-26.pdf) (paysan-boulanger) (nov 2025 → oct 2026, contrat à venir)
 - [Champignons](https://amapola.s3.fr-par.scw.cloud/2025-2026/AMAPOLA%20-%20Contrat%20champignons%202025-26.pdf) (oct 2025 → mai 2026)
 - Œufs (janv. 2025 → déc 2025, contrat à venir)
