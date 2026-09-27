@@ -8,14 +8,12 @@ title: "Documents"
 - [Livret d'accueil](https://amapola.s3.fr-par.scw.cloud/AMAPOLA%20-%20Livret%20d%27accueil.pdf)
 - [Guide de distribution](https://amapola.s3.fr-par.scw.cloud/AMAPOLA%20-%20Guide%20de%20distribution.pdf)
 
-# Adhésion
-
-- [Bulletin d'adhésion](https://amapola.s3.fr-par.scw.cloud/2025-2026/AMAPOLA%20-%20Bulletin%20d%E2%80%99adh%C3%A9sion%202025-26.pdf) (nov 2025 → oct 2026)
-
 # Contrats
 
-- [Légumes](https://amapola.s3.fr-par.scw.cloud/2025-2026/AMAPOLA%20-%20Contrat%20Village%20Potager%202025-26.pdf) (nov 2024 → oct 2025)
-- [Pommes/poires](https://amapola.s3.fr-par.scw.cloud/2025-2026/AMAPOLA%20-%20Contrat%20pommes%202025-26.pdf) (sept 2025 → mars 2026)
-- [Pain](https://amapola.s3.fr-par.scw.cloud/2025-2026/AMAPOLA%20-%20Contrat%20pain%202025-26.pdf) (paysan-boulanger) (nov 2025 → oct 2026, contrat à venir)
-- [Champignons](https://amapola.s3.fr-par.scw.cloud/2025-2026/AMAPOLA%20-%20Contrat%20champignons%202025-26.pdf) (oct 2025 → mai 2026)
-- Œufs (janv. 2025 → déc 2025, contrat à venir)
+- [Champignons](https://amapola.s3.fr-par.scw.cloud/2026-2027/AMAPOLA%20-%20Contrat%20champignons%202026-27.pdf) (oct 2026 → mai 2027)
+- Œufs (janv. 2027 → déc 2027, contrat à venir)
+- [Pommes/poires](https://amapola.s3.fr-par.scw.cloud/2026-2027/AMAPOLA%20-%20Contrat%20pommes%202026-27.pdf) (sept 2026 → févr 2027)
+
+# Mandats de prélèvement
+
+- [Le Village Potager](https://amapola.s3.fr-par.scw.cloud/Le%20Village%20Potager%20-%20Mandat%20de%20pr%C3%A9l%C3%A8vement.pdf)
