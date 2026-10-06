@@ -7,6 +7,7 @@ title: "Documents"
 
 - [Livret d'accueil](https://amapola.s3.fr-par.scw.cloud/AMAPOLA%20-%20Livret%20d%27accueil.pdf)
 - [Guide de distribution](https://amapola.s3.fr-par.scw.cloud/AMAPOLA%20-%20Guide%20de%20distribution.pdf)
+- [Nos statuts](assets/documents/amapola-statuts.pdf)
 
 # Contrats
 
